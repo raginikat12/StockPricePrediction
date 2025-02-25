@@ -2,4 +2,5 @@ tensorflow
 yfinance
 pandas
 numpy
+matplotlib
 streamlit
